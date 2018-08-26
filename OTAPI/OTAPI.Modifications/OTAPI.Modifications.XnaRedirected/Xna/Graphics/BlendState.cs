@@ -1,0 +1,2 @@
+﻿[assembly: System.Runtime.CompilerServices.TypeForwardedTo(typeof(Microsoft.Xna.Framework.Graphics.BlendState))]
+[assembly: System.Runtime.CompilerServices.TypeForwardedTo(typeof(Microsoft.Xna.Framework.Graphics.SetDataOptions))]

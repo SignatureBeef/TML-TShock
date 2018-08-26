@@ -1,0 +1,2 @@
+﻿[assembly: System.Runtime.CompilerServices.TypeForwardedTo(typeof(Microsoft.Xna.Framework.Graphics.Texture))]
+[assembly: System.Runtime.CompilerServices.TypeForwardedTo(typeof(Microsoft.Xna.Framework.Graphics.Texture2D))]
